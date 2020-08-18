@@ -19,6 +19,7 @@
 ## Installation
 
 Access the link to my Githib repo
+![Picture of deployed app](assets/workday.png)
 
 
 ## Usage 
